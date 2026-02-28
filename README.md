@@ -1,3 +1,5 @@
+https://patchew.org/linux/20220906194824.2110408-1-Liam.Howlett%40oracle.com/?
+
 # Oracle Linux: Unbreakable Enterprise Kernel (UEK)
 
 ## Introducing UEK
